@@ -1,7 +1,7 @@
 # My own CV 
 Personal project that aims to build my CV with Github Pages.
 
-You can see it [here](diogomartins96.github.io).
+You can see it [here](https://diogomartins96.github.io/).
 
 ## Updates/Versions
 V1.1 - 6/04/2020
