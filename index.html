@@ -9,6 +9,18 @@
 	</head>
 	<body class="is-preload">
 
+
+		<script>
+	function darkTheme() {
+		var element = document.body;
+		element.classList.toggle("dark-mode");
+	}
+
+	function trackCVDownload() {
+		gtag("event", "cv_download");
+	}
+</script>
+
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
@@ -24,7 +36,7 @@
 	id="dark-theme"
 	name="dark-theme"
 	onclick="darkTheme()">
-	<label for="dark-theme">Dark theme</label>
+	<label for="dark-theme">Dark Mode</label>
 </div>
 			</header>
 
