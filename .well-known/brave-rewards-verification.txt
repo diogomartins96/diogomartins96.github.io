@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: diogomartins96.github.io
+Token: 336f95ac984e649db2483c9f1d50c87569f7b65cbc19da1dd3b784cf59099a1d
